@@ -27,7 +27,7 @@ To view and interact with this project locally, you only need **Visual Studio Co
 1. **Clone the Repository**
    Open your terminal or command prompt and run the following command to download the project files:
 
-git clone https://github.com/Swaran4/Brain-Style-Quiz.md.git
+git clone https://github.com/Swaran4/Brain-Style-Quiz.git
 
 
 2. **Open in VS Code**
@@ -73,4 +73,7 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 ## 📧 Contact
 
-Project Link: https://brainstylequiz.netlify.app/
+Project Link(github): https://github.com/Swaran4/Brain-Style-Quiz
+Project Link(deploy): https://brainstylequiz.netlify.app/
+
+
