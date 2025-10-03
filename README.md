@@ -73,7 +73,10 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 ## 📧 Contact
 
-Project Link(github): https://github.com/Swaran4/Brain-Style-Quiz</break>
-Project Link(deploy): https://brainstylequiz.netlify.app/
+Project Link(github):https://github.com/Swaran4/Brain-Style-Quiz</break>
+
+Project Link(deployed): https://brainstylequiz.netlify.app/
+
+
 
 
